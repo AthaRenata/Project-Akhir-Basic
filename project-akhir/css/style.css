@@ -1,0 +1,16 @@
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  height: 100vh;
+}
+
+.td-over {
+  max-width: 250px;
+  text-overflow: ellipsis;
+}
+
+.cr {
+  font-family: Geneva, sans-serif;
+}
